@@ -8,6 +8,9 @@
 
 一个用于跟踪 nof1.ai AI Agent 交易信号并自动执行 Binance 合约交易的命令行工具。支持7个AI量化Agent的实时跟单，自动识别开仓、平仓、换仓和止盈止损信号。
 
+原项目https://github.com/terryso/nof1-tracker，我这提供部署、服务器代租服务，此外可做二开，nof1复刻的项目对接coinglass数据
+
+
 ## 🏢 代部署服务
 
 **不想自己部署？我们提供代部署服务！**
